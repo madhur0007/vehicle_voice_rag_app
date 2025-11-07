@@ -4,7 +4,7 @@
 ---
 
 ## Objective  
-Built for **91Trucks** — a startup serving **500+ commercial vehicle dealers**.  
+Built for **91Trucks** — serving **500+ commercial vehicle dealers**.  
 Empower dealers to answer customer queries in **Hindi via voice** in **<10 seconds** — reducing manual lookup by **90%** and **query time by 40%**.
 
 ---
@@ -12,7 +12,7 @@ Empower dealers to answer customer queries in **Hindi via voice** in **<10 secon
 ## Key Features  
 - **Voice Input** → OpenAI Whisper (STT)  
 - **Voice Output** → gTTS (TTS with auto-play)  
-- **Hybrid RAG** → TF-IDF (local) + DuckDuckGo (web) + CLIP (image search)  
+- **Hybrid RAG** → TF-IDF (local `.pkl` datasets) + DuckDuckGo (web) + CLIP (image embeddings)  
 - **LangGraph Agent** → Multi-step: `local → decide → web → answer`  
 - **LangSmith (Paid)** → Full trace visibility + analytics  
 - **Streamlit UI** → Budget slider, real images, auto-play audio
