@@ -1,0 +1,29 @@
+# --- Environment Management ---
+python-dotenv
+
+# --- LangChain Ecosystem ---
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai
+langchain-groq==0.1.9
+langgraph
+langsmith
+
+# --- RAG / Vector Search ---
+faiss-cpu
+datasets
+ragas
+tiktoken
+
+# --- LLM + NLP Support ---
+transformers
+scikit-learn
+
+# --- File Handling & Parsing ---
+pypdf
+pillow
+beautifulsoup4
+
+# --- Web & API ---
+requests
+streamlit
