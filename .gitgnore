@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.env
+temp_*.wav
+*.pkl
+*.npy
+*.csv
