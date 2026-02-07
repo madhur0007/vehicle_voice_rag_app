@@ -4,7 +4,7 @@
 ---
 
 ## Objective  
-Built for **91Trucks** — serving **500+ commercial vehicle dealers**.  
+Built for **commercial vehicle company** — serving **500+ commercial vehicle dealers**.  
 Empower dealers to answer customer queries in **Hindi via voice** in **<10 seconds** — reducing manual lookup by **90%** and **query time by 40%**.
 
 ---
